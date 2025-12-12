@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Lift Up",
+  "base_artist": "春猿火",
+  "createdAt": "2025-12-12T13:32:13.361870Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lift up Your Eyes",
+      "artist": "Saxon",
+      "has_synced": false,
+      "path": "select/01_Lift_up_Your_Eyes_Saxon.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Oh Detroit, Lift Up Your Weary Head! (Rebuild! Restore! Reconsider!)",
+      "artist": "Sufjan Stevens",
+      "has_synced": true,
+      "path": "select/02_Oh_Detroit,_Lift_Up_Your_Weary_Head!_(Rebuild!_Restore!_Reconsider!)_Sufjan_Stevens.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Detroit, Lift Up Your Weary Head! (Rebuild! Restore! Reconsider!)",
+      "artist": "Sufjan Stevens",
+      "has_synced": true,
+      "path": "select/03_Detroit,_Lift_Up_Your_Weary_Head!_(Rebuild!_Restore!_Reconsider!)_Sufjan_Stevens.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lift Up Your Heads Ye Mighty Gates",
+      "artist": "Sufjan Stevens",
+      "has_synced": true,
+      "path": "select/04_Lift_Up_Your_Heads_Ye_Mighty_Gates_Sufjan_Stevens.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lift Up Your Head",
+      "artist": "L'Entourloop feat. Troy Berkley & O.B.F",
+      "has_synced": true,
+      "path": "select/05_Lift_Up_Your_Head_L'Entourloop_feat._Troy_Berkley_&_O.B.F.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lift Up Your Head (ft. Troy Berkley & O.B.F)",
+      "artist": "L'Entourloop",
+      "has_synced": true,
+      "path": "select/06_Lift_Up_Your_Head_(ft._Troy_Berkley_&_O.B.F)_L'Entourloop.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "God Will Lift up Your Head (20th Anniversary Edition)",
+      "artist": "Jars of Clay",
+      "has_synced": false,
+      "path": "select/07_God_Will_Lift_up_Your_Head_(20th_Anniversary_Edition)_Jars_of_Clay.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lift Up Your Hearts",
+      "artist": "Joy Electric",
+      "has_synced": false,
+      "path": "select/08_Lift_Up_Your_Hearts_Joy_Electric.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lift Up Your Eyes",
+      "artist": "Planetshakers",
+      "has_synced": false,
+      "path": "select/09_Lift_Up_Your_Eyes_Planetshakers.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lift Up Your Face",
+      "artist": "Third Day",
+      "has_synced": false,
+      "path": "select/10_Lift_Up_Your_Face_Third_Day.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lift Up Your Hands To The Lord",
+      "artist": "Fred Hammond feat. Radical For Christ",
+      "has_synced": false,
+      "path": "select/11_Lift_Up_Your_Hands_To_The_Lord_Fred_Hammond_feat._Radical_For_Christ.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lift Up Your Hands to the Lord",
+      "artist": "Fred Hammond & Radical for Christ",
+      "has_synced": false,
+      "path": "select/12_Lift_Up_Your_Hands_to_the_Lord_Fred_Hammond_&_Radical_for_Christ.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lift Up the Light",
+      "artist": "Shane & Shane",
+      "has_synced": true,
+      "path": "select/13_Lift_Up_the_Light_Shane_&_Shane.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Detroit, Lift Up Your Weary Head! (Rebuild! Restore! Reconsider!)",
+      "artist": "Sufjan Stevens",
+      "has_synced": true,
+      "path": "select/14_Detroit,_Lift_Up_Your_Weary_Head!_(Rebuild!_Restore!_Reconsider!)_Sufjan_Stevens.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "We Lift Up a Shout - Live",
+      "artist": "Don Moen feat. Integrity's Hosanna! Music",
+      "has_synced": false,
+      "path": "select/15_We_Lift_Up_a_Shout_-_Live_Don_Moen_feat._Integrity's_Hosanna!_Music.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "We Lift Up a Shout (Live)",
+      "artist": "Don Moen;Integrity's Hosanna! Music",
+      "has_synced": false,
+      "path": "select/16_We_Lift_Up_a_Shout_(Live)_Don_Moen;Integrity's_Hosanna!_Music.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Lift Up Your Heads (Live)",
+      "artist": "Don Moen & Integrity's Hosanna! Music",
+      "has_synced": true,
+      "path": "select/17_Lift_Up_Your_Heads_(Live)_Don_Moen_&_Integrity's_Hosanna!_Music.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Lift Up Your Heads",
+      "artist": "Don Moen",
+      "has_synced": true,
+      "path": "select/18_Lift_Up_Your_Heads_Don_Moen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lift Up",
+      "artist": "春猿火",
+      "has_synced": false,
+      "path": "select/pl_01_Lift_Up_春猿火.txt"
+    }
+  ]
+}
